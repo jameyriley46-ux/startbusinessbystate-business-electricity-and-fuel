@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Business Electricity Prices, Generation Mix and Diesel and Gas Prices by State, 2026 (startbusinessbystate.com)"
+abstract: "Commercial and industrial electricity prices and increases, power plant fuel mix, prices in data center states, and weekly diesel and gasoline prices by state, from EIA data."
+authors:
+  - name: "StartBusinessByState"
+    affiliation: "startbusinessbystate.com"
+version: "1.0.0"
+date-released: "2026-10-02"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/jameyriley46-ux/startbusinessbystate-business-electricity-and-fuel"
+url: "https://startbusinessbystate.com/business-electricity-cost-increase-by-state/"
+keywords:
+  - "electricity prices"
+  - "commercial electricity"
+  - "industrial electricity"
+  - "EIA"
+  - "diesel prices"
+  - "gasoline prices"
+  - "generation mix"
+  - "small business costs"
+  - "data centers"
+preferred-citation:
+  type: data
+  title: "Business Electricity Prices, Generation Mix and Diesel and Gas Prices by State, 2026 (startbusinessbystate.com)"
+  authors:
+    - name: "StartBusinessByState"
+      affiliation: "startbusinessbystate.com"
+  publisher:
+    name: "startbusinessbystate.com"
+  version: "1.0.0"
+  date-released: "2026-10-02"
+  year: 2026
+  license: "CC-BY-4.0"
+  repository-code: "https://github.com/jameyriley46-ux/startbusinessbystate-business-electricity-and-fuel"
+  url: "https://github.com/jameyriley46-ux/startbusinessbystate-business-electricity-and-fuel"

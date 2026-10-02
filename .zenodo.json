@@ -1,0 +1,51 @@
+{
+  "title": "Business Electricity Prices, Generation Mix and Diesel and Gas Prices by State, 2026 (startbusinessbystate.com)",
+  "description": "<p>Commercial and industrial electricity prices and increases, power plant fuel mix, prices in data center states, and weekly diesel and gasoline prices by state, from EIA data.</p><p>What businesses pay for electricity in each state and how fast it is rising, where each state's electricity comes from, how prices compare in states with heavy data center building, and what diesel and gasoline cost this week, with a simple yearly fuel cost for a work truck.</p><p>As of: Electricity data through July 2026 (EIA, pages updated September 28, 2026). Fuel prices for the week of September 28, 2026 (page updated September 30, 2026).</p><p>Main page: <a href=\"https://startbusinessbystate.com/business-electricity-cost-increase-by-state/\">https://startbusinessbystate.com/business-electricity-cost-increase-by-state/</a></p>",
+  "creators": [
+    {
+      "name": "StartBusinessByState",
+      "affiliation": "startbusinessbystate.com"
+    }
+  ],
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "electricity prices",
+    "commercial electricity",
+    "industrial electricity",
+    "EIA",
+    "diesel prices",
+    "gasoline prices",
+    "generation mix",
+    "small business costs",
+    "data centers"
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-10-02",
+  "related_identifiers": [
+    {
+      "identifier": "https://startbusinessbystate.com/business-electricity-cost-increase-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/electricity-sources-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/data-center-electricity-prices-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/diesel-gas-prices-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    }
+  ]
+}
